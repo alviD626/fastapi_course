@@ -3,3 +3,6 @@ uvicorn
 aiohttp
 asyncio
 pydantic
+sqlalchemy
+psycopg2
+psycopg2-binary
